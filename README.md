@@ -1,8 +1,8 @@
 # Criminal_database
 <h2>Criminal Database Management System</h2>
 <h3>
-Key Skills : HTML,CSS,
-Javascript,Php,Sql Database,Ui and Ux.
+Key Skills : HTML, CSS, 
+Javascript, Php, Sql Database, UI&UX.
 </h3>
 <p>Crime record management system that helps police keep records of citizens complaints, files, investigation evidences and processes</p>
 <h1> Screenshots</h1>
